@@ -1,0 +1,14 @@
+Θέμα: Άσκηση 4 - Τιμές
+
+Μήνυμα:
+PC    Program Counter 1001
+BR    Base Register 0011
+SP    Stack Pointer 0001
+LR    Limit Register 0111
+X      Temporary Register 1011
+Temp Temporary Register 0101
+ 
+Οι τιμές των X, Y και Z
+10
+22
+28
